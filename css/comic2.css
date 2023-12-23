@@ -1,0 +1,196 @@
+.comic-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    border: 3px solid darkred;
+    font-family: 'Shantell Sans', sans-serif;
+}
+
+.comic__item {
+    width: 50%;
+    height: 512px;
+    border: 3px solid darkred;
+    position: relative;
+}
+
+.comic__img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.cloud-img {
+    width: 100%;
+}
+
+
+
+
+.comic__item1 .cloud11 {
+    position: absolute;
+    width: 350px;
+    top: -50px;
+    left: 45px;
+}
+.comic__item1 .cloud-img11 {
+    transform: scaleX(-1.3);
+
+} 
+.comic__item1 .text11 {
+    position: absolute;
+    top: 145px;
+    right: 75px;
+    left: 70px;
+    font-size: 15px;
+}
+
+
+.comic__item2 .cloud22 {
+    position: absolute;
+    width: 300px;
+    top: 240px;
+    left: 190px;
+}
+.comic__item2 .cloud-img22 {
+    transform: scaleX(-1.3);
+}
+.comic__item2 .text22 {
+    position: absolute;
+    top: 120px;
+    right: 50px;
+    left: 70px;
+    font-size: 15px;
+}
+
+.comic__item3 .cloud3 {
+    position: absolute;
+    width: 370px;
+    top: 220px;
+    left: 120px;
+}
+.comic__item3 .cloud-img3 {
+    transform: scaleX(-1.3);
+}
+.comic__item3 .text3 {
+    position: absolute;
+    top: 148px;
+    right: 60px;
+    left: 85px;
+    rotate: 3deg;
+    font-size: 15px;
+}
+
+.comic__item4 .cloud4 {
+    position: absolute;
+    width: 360px;
+    top: 220px;
+    left: 140px;
+}
+
+.comic__item4 .text4 {
+    position: absolute;
+    top: 145px;
+    right: 70px;
+    left: 90px;
+    rotate: 6deg;
+    font-size: 15px;
+}
+.comic__item4 .cloud-img4 {
+    transform: rotate(180deg) scaleX(-1.3);
+}
+
+.comic__item5 .cloud1 {
+    position: absolute;
+    width: 255px;
+    top: 170px;
+    left: -30px;
+}
+
+.comic__item5 .cloud-img1 {
+    transform: scaleX(1);
+}
+
+.comic__item5 .cloud2 {
+    position: absolute;
+    width: 260px;
+    right: 80px;
+    top: 310px;
+    bottom: 10px;
+
+}
+.comic__item5 .cloud-img2 {
+    transform: rotate(180deg);
+}
+.comic__item5 .text1 {
+    position: absolute;
+    top: 110px;
+    right: 70px;
+    left: 80px;
+    font-size: 15px;
+
+}
+.comic__item5 .text2 {
+    position: absolute;
+    left: 73px;
+    bottom: 95px;
+    top: 100px;
+    right: 60px;
+    font-size: 15px;
+
+}
+
+
+.comic__item6 .cloud6 {
+    position: absolute;
+    width: 340px;
+    top: 245px;
+    left: -20px;
+}
+.comic__item6 .cloud-img6 {
+    transform: scaleX(-1.3) rotate(180deg);
+}
+.comic__item6 .text6 {
+    position: absolute;
+    top: 150px;
+    right: 75px;
+    left: 75px;
+    font-size: 15px;
+}
+
+
+.comic__item7 .cloud7 {
+    position: absolute;
+    width: 340px;
+    top: 205px;
+    left: 160px;
+}
+.comic__item7 .cloud-img7 {
+    transform: scaleX(-1.3) rotate(180deg);
+}
+.comic__item7 .text7 {
+    position: absolute;
+    top: 150px;
+    right: 75px;
+    left: 75px;
+    font-size: 15px;
+}
+
+.comic__item8 .cloud8 {
+    position: absolute;
+    width: 330px;
+    top: 60px;
+    left: -28px;
+}
+.comic__item8 .cloud-img8 {
+    transform: scaleX(-1.3) rotate(180deg);
+}
+.comic__item8 .text8 {
+    position: absolute;
+    top: 155px;
+    right: 75px;
+    left: 75px;
+    rotate: 12deg;
+    font-size: 15px;
+}
+
+
+
